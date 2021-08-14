@@ -1,1 +1,1 @@
-# mmotee
+# teeworlds-maps
